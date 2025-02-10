@@ -1,0 +1,2 @@
+C:\Users\Someone\Desktop\app3\Login_WPF.pdb
+C:\Users\Someone\Desktop\app3\Login_WPF.exe

@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+	<PublishSingleFile>true</PublishSingleFile>
+	<SelfContained>true</SelfContained>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fonts\Inter_18pt-Bold.ttf" />
+    <None Remove="Fonts\Inter_18pt-BoldItalic.ttf" />
+    <None Remove="Fonts\Inter_18pt-Italic.ttf" />
+    <None Remove="Fonts\Inter_18pt-Regular.ttf" />
+    <None Remove="Fonts\Inter_18pt-SemiBold.ttf" />
+    <None Remove="Fonts\Inter_18pt-SemiBoldItalic.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.OleDb" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Libraries\ACEOLEDB.DLL">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Fonts\Inter_18pt-Bold.ttf" />
+    <Resource Include="Fonts\Inter_18pt-BoldItalic.ttf" />
+    <Resource Include="Fonts\Inter_18pt-Italic.ttf" />
+    <Resource Include="Fonts\Inter_18pt-Regular.ttf" />
+    <Resource Include="Fonts\Inter_18pt-SemiBold.ttf" />
+    <Resource Include="Fonts\Inter_18pt-SemiBoldItalic.ttf" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\Someone\Desktop\app5\Login_WPF.pdb
+C:\Users\Someone\Desktop\app5\D3DCompiler_47_cor3.dll
+C:\Users\Someone\Desktop\app5\PenImc_cor3.dll
+C:\Users\Someone\Desktop\app5\PresentationNative_cor3.dll
+C:\Users\Someone\Desktop\app5\vcruntime140_cor3.dll
+C:\Users\Someone\Desktop\app5\wpfgfx_cor3.dll
+C:\Users\Someone\Desktop\app5\Login_WPF.exe

@@ -1,0 +1,7 @@
+C:\Users\Someone\Desktop\app6_pervie_uspexi\Login_WPF.pdb
+C:\Users\Someone\Desktop\app6_pervie_uspexi\D3DCompiler_47_cor3.dll
+C:\Users\Someone\Desktop\app6_pervie_uspexi\PenImc_cor3.dll
+C:\Users\Someone\Desktop\app6_pervie_uspexi\PresentationNative_cor3.dll
+C:\Users\Someone\Desktop\app6_pervie_uspexi\vcruntime140_cor3.dll
+C:\Users\Someone\Desktop\app6_pervie_uspexi\wpfgfx_cor3.dll
+C:\Users\Someone\Desktop\app6_pervie_uspexi\Login_WPF.exe

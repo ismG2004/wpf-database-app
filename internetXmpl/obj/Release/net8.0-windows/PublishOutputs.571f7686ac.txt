@@ -1,0 +1,7 @@
+C:\Users\Someone\source\repos\internetXmpl\internetXmpl\bin\Release\net8.0-windows\publish\Login_WPF.exe
+C:\Users\Someone\source\repos\internetXmpl\internetXmpl\bin\Release\net8.0-windows\publish\Login_WPF.dll
+C:\Users\Someone\source\repos\internetXmpl\internetXmpl\bin\Release\net8.0-windows\publish\Login_WPF.deps.json
+C:\Users\Someone\source\repos\internetXmpl\internetXmpl\bin\Release\net8.0-windows\publish\Login_WPF.runtimeconfig.json
+C:\Users\Someone\source\repos\internetXmpl\internetXmpl\bin\Release\net8.0-windows\publish\Login_WPF.pdb
+C:\Users\Someone\source\repos\internetXmpl\internetXmpl\bin\Release\net8.0-windows\publish\System.Data.OleDb.dll
+C:\Users\Someone\source\repos\internetXmpl\internetXmpl\bin\Release\net8.0-windows\publish\runtimes\win\lib\net8.0\System.Data.OleDb.dll
